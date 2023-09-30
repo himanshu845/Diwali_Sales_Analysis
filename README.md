@@ -1,6 +1,6 @@
 # Diwali_Sales_Analysis
 
-Performed exploratory data analysis (EDA) usimg pandas, matplotlib and seaborn libraries
+Performed exploratory data analysis (EDA) using pandas, matplotlib and seaborn libraries
 
 Improved customer experience by identifying potential cutomers across different states, occupation, gender and age groups
 
